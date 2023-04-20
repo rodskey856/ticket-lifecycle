@@ -61,3 +61,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 <img src="https://i.imgur.com/0fXtldR.png"/>
 </p>
+<p>
+<img src="https://i.imgur.com/c4VrDbF.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/3z4GxqE.png"/>
+</p>
