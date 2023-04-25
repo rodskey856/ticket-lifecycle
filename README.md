@@ -49,18 +49,24 @@ After the ticket has been submitted, the ticket can be assigned to an IT profess
 <img src="https://i.imgur.com/4XSYrfu.png"/>
 </p>
 <p>
- For this ticket, the Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator in this scenario.
+For this ticket, the Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator in this scenario.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/VAvKsXN.png"/>
 </p>
 <p>
+Changed the Priority to "Emergency". The IT professional would attend to this immediately due to change.
+ </p>
+<p>
 <img src="https://i.imgur.com/1nBtM96.png"/>
 </p>
 <p>
+Changed the SLA into SEV-A.
+<p>
 <img src="https://i.imgur.com/0fXtldR.png"/>
 </p>
+"Transfer" the IT Agent.
 <p>
 <img src="https://i.imgur.com/c4VrDbF.png"/>
 </p>
