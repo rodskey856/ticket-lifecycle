@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/TiK9JEj.png"/>
 </p>
 <p>
-1.This is the stage when a new ticket is created. Two common ways in which tickets can be submitted is through a form – such as the one shown here – or by emailing an   email address that is designated for tickets. In this form, the user provides their contact information, the topic/issue, and details about the issue.
+1. This is the stage when a new ticket is created. Two common ways in which tickets can be submitted is through a form – such as the one shown here – or by emailing an   email address that is designated for tickets. In this form, the user provides their contact information, the topic/issue, and details about the issue.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/ETchcQn.png"/>
 </p>
 <p>
-2.After the ticket has been submitted, the ticket can be assigned to an IT professional. In order for the ticket to be handled properly, information regarding the       level of severity can be changed. 
+2. After the ticket has been submitted, the ticket can be assigned to an IT professional. In order for the ticket to be handled properly, information regarding the       level of severity can be changed. 
 </p>
 <br />
 
@@ -49,25 +49,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/4XSYrfu.png"/>
 </p>
 <p>
-2a.Changed the Priority to "Emergency". The IT professional would attend to this immediately due to change in proirity.
+2a. Changed the Priority to "Emergency". The IT professional would attend to this immediately due to change in proirity.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/VAvKsXN.png"/>
 </p>
 <p>
-2b.Changed the Priority to "Emergency". The IT professional would attend to this immediately due to change in proirity.
- </p>
+2b. Changed the Priority to "Emergency". The IT professional would attend to this immediately due to change in proirity.
+</p>
 <p>
 <img src="https://i.imgur.com/1nBtM96.png"/>
 </p>
 <p>
-2c.Changed the SLA into SEV-A. SLA stands for service-level agreement and is a document that defines the level of service expected during an exchange between a receiver of service and a service provider.
+2c. Changed the SLA into SEV-A. SLA stands for service-level agreement and is a document that defines the level of service expected during an exchange between a          receiver of service and a service provider.
 </p>
 <p>
 <img src="https://i.imgur.com/0fXtldR.png"/>
 </p>
-2d."Transfer" the IT Agent. The transfer would allow Agent to have a role which are the permission granted to Agents per Department that they have access to. Each Role   has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles   can be created and assigned to Agents with access to various departments.
+2d. "Transfer" the IT Agent. The transfer would allow Agent to have a role which are the permission granted to Agents per Department that they have access to. Each       Role   has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of   roles   can be created and assigned to Agents with access to various departments.
 <p>
 <img src="https://i.imgur.com/c4VrDbF.png"/>
 </p>
