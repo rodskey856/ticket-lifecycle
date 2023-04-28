@@ -41,7 +41,7 @@ This is the stage when a new ticket is created. Two common ways in which tickets
 <img src="https://i.imgur.com/ETchcQn.png"/>
 </p>
 <p>
-After the ticket has been submitted, the ticket can be assigned to an IT professional. In order for the ticket to be handled properly, information regarding the level of severity can be changed.
+After the ticket has been submitted, the ticket can be assigned to an IT professional. In order for the ticket to be handled properly, information regarding the level of severity can be changed. 
 </p>
 <br />
 
@@ -49,7 +49,7 @@ After the ticket has been submitted, the ticket can be assigned to an IT profess
 <img src="https://i.imgur.com/4XSYrfu.png"/>
 </p>
 <p>
-For this ticket, the Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator in this scenario.
+Changed the Priority to "Emergency". The IT professional would attend to this immediately due to change in proirity.
 </p>
 <br />
 <p>
