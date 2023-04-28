@@ -56,13 +56,14 @@ For this ticket, the Priority was changed to “Emergency,” the SLA Plan was c
 <img src="https://i.imgur.com/VAvKsXN.png"/>
 </p>
 <p>
-Changed the Priority to "Emergency". The IT professional would attend to this immediately due to change.
+Changed the Priority to "Emergency". The IT professional would attend to this immediately due to change in proirity.
  </p>
 <p>
 <img src="https://i.imgur.com/1nBtM96.png"/>
 </p>
 <p>
-Changed the SLA into SEV-A.
+Changed the SLA into SEV-A. SLA stands for service-level agreement and is a document that defines the level of service expected during an exchange between a receiver of service and a service provider.
+</p>
 <p>
 <img src="https://i.imgur.com/0fXtldR.png"/>
 </p>
