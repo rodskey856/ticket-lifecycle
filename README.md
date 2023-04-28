@@ -67,7 +67,7 @@ Changed the SLA into SEV-A. SLA stands for service-level agreement and is a docu
 <p>
 <img src="https://i.imgur.com/0fXtldR.png"/>
 </p>
-"Transfer" the IT Agent.
+"Transfer" the IT Agent. The transfer would allow Agent to have a role which are the permission granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
 <p>
 <img src="https://i.imgur.com/c4VrDbF.png"/>
 </p>
