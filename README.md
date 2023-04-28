@@ -22,10 +22,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+1. Intake
+2. Assignment and Communication
+3. Working the Issue
+4. Resolution
 
 <h2>Lifecycle Stages</h2>
 
@@ -68,9 +68,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/0fXtldR.png"/>
 </p>
 2d. "Transfer" the IT Agent. The transfer would allow Agent to have a role which are the permission granted to Agents per Department that they have access to. Each       Role   has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of   roles   can be created and assigned to Agents with access to various departments.
+</p>
 <p>
 <img src="https://i.imgur.com/c4VrDbF.png"/>
 </p>
 <p>
+3. Now that the ticket has been assigned to the appropriate department and people, the IT staff can work on finding a solution to the issue. Each time a change is made    to the ticket or there is an update to the situation, a comment can be made in the Ticket Thread. This allows everyone viewing the ticket to be aware of what has      already happened and facilitates communication between everyone involved.
+</p>
+<p>
 <img src="https://i.imgur.com/3z4GxqE.png"/>
+</p>
+<p>
+4. Once the issue has been resolved, the ticket can be closed. In the osTicket system, the ticket will move from the Open section to the Closed section in this stage. For IT professionals, it is important to know where to find closed tickets since they can be browsed and used to find solutions to open tickets.
 </p>
